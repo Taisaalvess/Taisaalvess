@@ -1,4 +1,4 @@
-i## Olá! Eu sou a Tais Alves .
+i## Olá! Eu sou a Tais Alve .
 
 - 🔭 Atualmente sou focada na liguagem javascript em enfase em Reactjs.
 
